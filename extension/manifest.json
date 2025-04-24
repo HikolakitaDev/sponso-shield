@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Skip Button",
+    "version": "1.0",
+    "description": "Shows a skip button at 1 minute that skips to 1:30 when clicked",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ]
+  }

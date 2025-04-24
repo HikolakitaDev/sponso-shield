@@ -1,0 +1,4 @@
+flask
+youtube-transcript-api
+json
+re
