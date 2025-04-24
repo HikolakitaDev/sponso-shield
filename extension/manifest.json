@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "YouTube Skip Button",
+    "name": "Sponsoshield",
     "version": "1.0",
-    "description": "Sponsoshield",
+    "description": "Sponso-blocker",
     "permissions": ["activeTab"],
     "content_scripts": [
       {
