@@ -1,0 +1,2 @@
+extension/content.js, for now, only skips a video at 1:30 if 1min is reached. 
+api/app.py has a GET endpoint that calls the youtube-transcript-api library to get the transcripts.
