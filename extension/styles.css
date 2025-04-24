@@ -36,7 +36,3 @@
     align-items: center;
   }
   
-  /* YouTube dark mode compatibility */
-  [dark-theme="true"] .yt-skip-button {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
-  }
